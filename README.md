@@ -43,10 +43,6 @@ To get started with this program, follow these steps:
    ```bash
    git clone https://github.com/Krishprajapati15/dotnet.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd comprehensive-web-app
-   ```
 3. Ensure you have the necessary dependencies installed.
 4. Run the server-side program using your preferred environment or IDE.
 5. Access the respective functionality through the provided URLs.
