@@ -41,7 +41,7 @@ To get started with this program, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Krishprajapati15/comprehensive-web-app.git
+   git clone https://github.com/Krishprajapati15/dotnet.git
    ```
 2. Navigate to the project directory:
    ```bash
