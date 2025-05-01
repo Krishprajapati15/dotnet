@@ -2,10 +2,6 @@
 
 This repository contains a simple web page that allows users to input their name, email, password, phone number, gender, and faculty. The input is validated and stored in the "registrations" table of the database.
 
-![Registration Form](registration-form.png)
-
-![Database Table](database-view.png)
-
 ## Getting Started
 
 To get started with this program, follow these steps:

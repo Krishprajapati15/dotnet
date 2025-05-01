@@ -2,8 +2,6 @@
 
 This repository contains the server-side script for a registration form. The script validates user input using proper format.
 
-![Registration Form](registration-form.png)
-
 ## Getting Started
 
 To get started with this program, follow these steps:

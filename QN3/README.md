@@ -2,8 +2,6 @@
 
 This repository contains the server-side script for a tax calculator form. The script calculates tax based on the provided conditions.
 
-![Tax Calculator Form](tax-calculator-form.png)
-
 ## Getting Started
 
 To get started with this program, follow these steps:

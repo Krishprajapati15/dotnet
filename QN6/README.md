@@ -2,12 +2,6 @@
 
 This repository contains the server-side script for the login process. It assumes that user data is already stored from the previous registration process in QN5.
 
-![Login Form](login-form.png)
-
-![Database Table](database-view.png)
-
-![DashBoard View](dashboard-view.png)
-
 ## Getting Started
 
 To get started with this program, follow these steps:

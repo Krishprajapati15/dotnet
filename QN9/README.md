@@ -2,23 +2,21 @@
 
 This repository contains the server-side script for a complete authentication process, including registration, login, access of dashboard, session and cookie storage, and logout functionalities.
 
-![Welcome Dashboard](welcome-dashboard.png)
-
-![Register Page](register-page.png)
-
-![Login Page](login-page.png)
-
-![Main Dashboard](main-dashboard.png)
-
 ## Getting Started
 
 To get started with this program, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Ensure you have the necessary dependencies installed.
-3. Run the server-side program.
-4. Access the calculator form through the provided URL.
-5. Input values in the designated field and press the appropriate button to calculate the result.
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Krishprajapati15/dotnet.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd dotnet
+   ```
+3. Ensure you have the necessary dependencies installed.
+4. Run the server-side program using your preferred environment or IDE.
+5. Access the authentication functionalities through the provided URL.
 
 ## Dependencies
 
@@ -44,12 +42,30 @@ The server-side script implements the following steps for the authentication pro
 
 If you'd like to contribute to this project, please follow these guidelines:
 
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b QN9/QN9`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin QN9/QN9`).
+1. Fork the repository:
+   ```bash
+   git fork https://github.com/Krishprajapati15/dotnet.git
+   ```
+2. Create your feature branch:
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -am 'Add some feature'
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
 5. Create a new Pull Request.
 
 ## License
 
 This project is licensed under the [MIT License](MIT-LICENSE). This means the project is free for anyone to clone or use for their own projects.
+
+## Contact
+
+For any questions or suggestions, feel free to contact me:
+
+- **GitHub**: [Krishprajapati15](https://github.com/Krishprajapati15)

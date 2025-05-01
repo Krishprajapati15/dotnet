@@ -2,8 +2,6 @@
 
 This repository contains the server-side program for a calculator form. The program validates the input field and calculates the result according to the button pressed.
 
-![Calculator Form](calculator-form.png)
-
 ## Getting Started
 
 To get started with this program, follow these steps:

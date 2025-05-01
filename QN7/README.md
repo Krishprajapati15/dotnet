@@ -2,10 +2,6 @@
 
 This repository contains the server-side script for managing session data. It enables storing, retrieving, and destroying session data.
 
-![Login Form](login-form.png)
-
-![DashBoard View](dashboard-view.png)
-
 ## Getting Started
 
 To get started with this program, follow these steps:

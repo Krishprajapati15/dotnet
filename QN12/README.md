@@ -2,19 +2,21 @@
 
 This repository contains the server-side script for modifying books data stored from the previous question (Question No. 11).
 
-![Update Information](Update-Information.png)
-
-![Form Demo](localhost_44345_QN12.aspx.png)
-
 ## Getting Started
 
 To get started with this program, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Ensure you have the necessary dependencies installed.
-3. Run the server-side program.
-4. Access the calculator form through the provided URL.
-5. Input values in the designated field and press the appropriate button to calculate the result.
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Krishprajapati15/dotnet.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd dotnet
+   ```
+3. Ensure you have the necessary dependencies installed.
+4. Run the server-side program using your preferred environment or IDE.
+5. Access the books data modification form through the provided URL.
 
 ## Dependencies
 
@@ -28,7 +30,13 @@ Make sure you have the following dependencies installed:
 
 ## Books Data Modification
 
-The server-side script provides functionalities to modify books data stored in the database. This may include updating existing book records with new information, deleting books from the database, or adding new books to the collection.
+The server-side script provides functionalities to modify books data stored in the database. This may include:
+
+1. **Updating Records**: Update existing book records with new or corrected information.
+2. **Deleting Records**: Remove book entries from the database.
+3. **Adding New Records**: Add new books to the database.
+
+### Columns Managed
 
 - **id**: Unique identifier for each book.
 - **title**: Title of the book.
@@ -44,12 +52,30 @@ The server-side script provides functionalities to modify books data stored in t
 
 If you'd like to contribute to this project, please follow these guidelines:
 
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b QN12/QN12`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin QN12/QN12`).
+1. Fork the repository:
+   ```bash
+   git fork https://github.com/Krishprajapati15/dotnet.git
+   ```
+2. Create your feature branch:
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -am 'Add some feature'
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
 5. Create a new Pull Request.
 
 ## License
 
 This project is licensed under the [MIT License](MIT-LICENSE). This means the project is free for anyone to clone or use for their own projects.
+
+## Contact
+
+For any questions or suggestions, feel free to contact me:
+
+- **GitHub**: [Krishprajapati15](https://github.com/Krishprajapati15)
