@@ -8,11 +8,18 @@ This repository contains the server-side program for a calculator form. The prog
 
 To get started with this program, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Ensure you have the necessary dependencies installed.
-3. Run the server-side program.
-4. Access the calculator form through the provided URL.
-5. Input values in the designated fields and press the appropriate button to calculate the result.
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Krishprajapati15/dotnet.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd dotnet
+   ```
+3. Ensure you have the necessary dependencies installed.
+4. Run the server-side program using your preferred environment or IDE.
+5. Access the calculator form through the provided URL.
+6. Input values in the designated fields and press the appropriate button to calculate the result.
 
 ## Dependencies
 
@@ -28,7 +35,26 @@ Make sure you have the following dependencies installed:
 If you'd like to contribute to this project, please follow these guidelines:
 
 1. Fork the repository.
-2. Create your feature branch (`git checkout -b QN1/QN1`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin QN1/QN1`).
+2. Create your feature branch:
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -am 'Add some feature'
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
 5. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or suggestions, feel free to contact me:
+
+- **GitHub**: [Krishprajapati15](https://github.com/Krishprajapati15)
